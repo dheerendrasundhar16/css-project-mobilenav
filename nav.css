@@ -1,0 +1,73 @@
+
+
+.m1{
+    background-image: url(g2.jfif);
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}.one{
+    
+    height:600px;
+    width:300px;
+    border-radius: 20px;
+   box-shadow: 1px 1px 5px;
+   border-color: black;
+   border-style: groove;
+   
+   
+}
+.three{
+
+}
+.x1{
+    display: flex;
+}
+.two{
+    padding:10px;
+   
+}
+.four{
+    padding-left: 20px;   
+     word-spacing:10px;
+   
+}
+.oneee{
+ 
+    float: right;
+    margin-top: -10px;
+    margin-right: 3px;
+}
+.five{
+    padding-left: 20px;   
+    word-spacing:10px;
+}
+.tweee{
+    float:right;
+    margin-top: 5px;
+}
+.six{
+    position:relative;
+    top: 100px;
+    left: 30px;
+    
+
+}.seven{
+    position:relative;
+    top:80px;
+    left: 100px;
+    
+
+}
+.eight{
+    position:relative;
+    top:63px;
+    left: 180px;
+    }
+    .nine{
+        position:relative;
+        top:44px;
+        left: 250px;
+        }
+      
+
+
